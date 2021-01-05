@@ -1,0 +1,4 @@
+﻿  Operator_Overloading.cpp
+c:\users\21101_000\source\repos\practice_cplus\operator_overloading\operator_overloading\operator_overloading.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\21101_000\source\repos\practice_cplus\operator_overloading\operator_overloading\operator_overloading.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Operator_Overloading.vcxproj -> C:\Users\21101_000\source\repos\Practice_Cplus\Operator_Overloading\Debug\Operator_Overloading.exe
